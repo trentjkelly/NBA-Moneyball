@@ -1,6 +1,6 @@
 # NBA "Moneyball" - Statistics Predictor
 
-Like from the film "Moneyball", it calculates the most important stats weighted on their effect on win percentage.
+Like from the film "Moneyball", it calculates the most important NBA stats weighted on their effect on win percentage.
 
 ## Description
 
